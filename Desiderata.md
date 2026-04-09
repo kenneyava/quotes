@@ -1,1 +1,1 @@
-![Desiderata](./images/Desiderata.png)  
+![Desiderata](./images/desiderata.png)  
