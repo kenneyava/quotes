@@ -4,6 +4,8 @@
 
 ![Courage](./images/courage.png)
 
+![Nature](./images/live_nature.png)
+
 ![Abundance](./images/abundance.png)
 
 ![Happoiness](./images/happiness.png)
@@ -15,8 +17,6 @@
 ![Path](./images/path.png)
 
 ![Change](./images/change.png)
-
-![Nature](./images/live_nature.png)
 
 ![Happoiness 2](./images/happiness_2.png)
 
