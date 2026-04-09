@@ -18,12 +18,12 @@
 
 ![Change](./images/change.png)
 
-![Happoiness 2](./images/happiness_2.png)
+![Generosity](./images/generosity.png)
 
 ![Right](./images/right.png)
 
 ![Minimal](./images/minimal.png)
 
-![Generosity](./images/generosity.png)
-
 ![Think](./images/think.png)
+
+![Happoiness 2](./images/happiness_2.png)
